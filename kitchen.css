@@ -1,0 +1,41 @@
+img {
+    width: 20px;
+    height: 20px;
+}
+
+
+.flexContainer {
+    display: flex;
+    flex-direction: center;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+    background-color: seagreen;
+    height: 300px;
+    align-items: center;
+}
+
+.boxes {
+   padding: 20px;
+   margin: 5px;
+   background-color: red;
+   color: white;
+   height: 100px;
+   width: 100px;
+}
+
+/* .a {
+
+} */
+
+.b {
+    height: 250px;
+    flex-grow: 3;
+}
+
+/* .c {
+
+} */
+
+/* .d {
+
+} */

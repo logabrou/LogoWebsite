@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="" type="text/css" rel="stylesheet">
+    <title>Logan's Resume</title>
+    
+</head>
+<body>
+    <h1 style = "text-align: center;" >Logan Broussard</h1>
+    <div>
+        <h2>Work Experience:</h2>
+        <h3>The Baked Bear</h3>
+        <ul>        
+            <li><p>Prepared and served ice cream sandwiches, ice cream, and 
+    cookies in a fast-paced line setting.</p></li>
+            <li><p>Represented the company at large scale catering events. 
+    Entrusted with driving company truck; with safely loading and 
+    unloading company equipment; with assembling and arranging 
+    equipment to reflect a desirable image, and serving correct 
+    proportions of ice cream to upwards of 200 clients.</p></li>
+            <li><p> Promoted to Manager within eight months for outstanding 
+     performance of Team Member and Shift Leader duties. Given 
+    autonomy to oversee store without supervision, initiated 
+    open and closing procedures, performed duties based on 
+    store demand, and delegated necessary tasks to team members.</p></li>
+         </ul>
+        <hr>
+    </div>
+    <div id="Education">
+        <header></header>
+            <h2 >Education:</h2>
+        </header>
+        <main>
+            <h3>University of Texas</h3>
+            <ul>
+                <li><p>I learned some cool skills.</p></li>
+            </ul>
+            <h3>Tech Talent South</h3>
+            <p >Learning how to code!</p>
+            <ul >
+                <li>HTML</li>
+                <li>CSS</li>
+            </ul>
+        </main>  
+        <hr>
+    </div>
+    <div id="contact">
+        <h3>Contact:</h3>
+        <h4>email: logan.broussard1@gmail.com</h4>
+        <h4>phone: (512) 111-1111</h4>
+
+    </div>
+
+</body>
+</html>
